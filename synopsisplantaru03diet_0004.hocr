@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./synopsisplantaru03diet_0004.png"; bbox 0 0 1717 3024; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 659 1050 1326 1236">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 659 1050 1322 1226">
+     <span class='ocr_line' id='line_1_1' title="bbox 659 1050 1322 1180; baseline 0.122 -103.683"><span class='ocrx_word' id='word_1_1' title='bbox 659 1050 1263 1180; x_wconf 30' lang='lat' dir='ltr'>vids-wemf·‘·‘⁸{v³</span> <span class='ocrx_word' id='word_1_2' title='bbox 1209 1095 1279 1146; x_wconf 94' lang='grc'><em>1</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1316 1150 1322 1158; x_wconf 80' lang='grc'>,,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 846 1143 1326 1236; baseline 0.107 -58.855"><span class='ocrx_word' id='word_1_4' title='bbox 846 1157 994 1210; x_wconf 45' lang='grc' dir='ltr'>ΝΜ</span> <span class='ocrx_word' id='word_1_5' title='bbox 992 1147 1074 1229; x_wconf 57' lang='grc'>,1</span> <span class='ocrx_word' id='word_1_6' title='bbox 1062 1143 1326 1236; x_wconf 39' lang='lat' dir='ltr'>mm&amp;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 0 0 1717 3024">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 0 0 1717 3024">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1717 3024; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 1717 3024; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
